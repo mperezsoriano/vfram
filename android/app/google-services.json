@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "830077036729",
+    "firebase_url": "https://farmwork-51522.firebaseio.com",
+    "project_id": "farmwork-51522",
+    "storage_bucket": "farmwork-51522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830077036729:android:0a2a3ddf7a6c1365",
+        "android_client_info": {
+          "package_name": "com.wop.farmwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830077036729-4r10lfm5ik14eo5g8rthpgdpskpr0koh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9bkBkI8sZSPvxnZXvw5-QBVUVqOzDphI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830077036729-4r10lfm5ik14eo5g8rthpgdpskpr0koh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
